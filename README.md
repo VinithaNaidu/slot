@@ -134,7 +134,8 @@ Reg No. : 212222230175
 
 
 ## HTML VALIDATOR :
-![image](https://user-images.githubusercontent.com/121166004/236629552-9be8875b-3b64-484e-b02e-f971f52d09f1.png)
+![htmlval](https://github.com/VinithaNaidu/slot/assets/121166004/9db9d6a6-09c6-4a03-8dcf-9e791905d059)
+
 
 
 
