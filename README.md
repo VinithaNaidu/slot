@@ -36,34 +36,34 @@ Reg No. : 212222230175
 </head>
 <body>
 <center>
-<img src="/static/images/logo.png" height="100" width="540">
+<img src="/static/images/logo.jpg" height="100" width="540">
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - THIRISHA(22001920)</b></caption>
+<caption><b>SLOT TIME TABLE - Vinitha (22001203)</b></caption>
 <tr align="center">
-<th bgcolor="red">Day/Time</th>
-<th bgcolor="red">Monday</th>
-<th bgcolor="red">Tuesday</th>
-<th bgcolor="red">Wednesday</th>
-<th bgcolor="red">Thursday</th>
-<th bgcolor="red">Friday</th>
+<th bgcolor="yellow">Day/Time</th>
+<th bgcolor="yellow">Monday</th>
+<th bgcolor="yellow">Tuesday</th>
+<th bgcolor="yellow">Wednesday</th>
+<th bgcolor="yellow">Thursday</th>
+<th bgcolor="yellow">Friday</th>
 </tr>
 <tr align="center">
 <th bgcolor="yellow">8-10</th>
-<td>Digital electronics</td>
-<td>Physics</td>
-<td>FREE SLOT</td>
-<td>WEB</td>
-<td>WEB</td>
+<td >FUNDAMENTALS OF  C PROGRAMMING</td>
+<td>COMMUCATIVE ENGLISH</td>
+<td>PHYSICS FOR QUANTUM COMPUTATION</td>
+<td>STATISTICS AND NUMERICAL METHODS</td>
+<td>FUNDAMENTALS OF C PROGRAMMING</td>
 </tr>
 <tr align="center">
 <th bgcolor="yellow">10-12</th>
 <td>FREE SLOT</td>
-<td>DATA SCIENCE</td>
-<td>OS</td>
-<td>DIGITAL ELECTRONICS</td>
-<td>DATA SCIENCE</td>
+<td> FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
+<td>PRINCIPLES OF CHEMISTRY IN ENGINEERING</td>
+<td>FREE SLOT</td>
+<td>STATISTICS AND NUMERICAL METHODS</td>
 </tr>
 <tr>
 <th bgcolor="yellow">12-1</th>
@@ -71,20 +71,19 @@ Reg No. : 212222230175
 </tr>
 <tr align="center">
 <th bgcolor="yellow">1-3</th>
-<td>OS</td>
+<td >FREE SLOT </td>
 <td>FREE SLOT</td>
-<td>WEB</td>
-<td>PHYSICS</td>
-<td>FREE SLOT</td>
-
+<td>COMMUCATIVE ENGLISH</td>
+<td>FUNDAMENTALS OF WEB APPLICATION</td>
+<td>SOFT SKILLS</td>
 </tr>
 <tr align="center">
 <th bgcolor="yellow">3-5</th>
-<td>STATISTICS</td>
+<td > STATISTICS AND NUMERICAL METHODS</td>
 <td>FREE SLOT</td>
-<td>FREE SLOT</td>
-<td>FREE SLOT</td>
-<td>STATISTICS</td>
+<td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
+<td>FPHYSICS FOR QUANTUM COMPUTATION</td>
+<td>PRINCIPLES OF CHEMISTRY IN ENGINEERING</td>
 </tr>
 </table>
 <br>
@@ -101,28 +100,28 @@ Reg No. : 212222230175
 </tr>
 <tr>
 <td align="center">2.</td>
-<td align="center">19AI403</td>
-<td>INRODUCTION TO DATA SCIENCE</td>
+<td align="center">19AI304</td>
+<td>FUNDAMENTALS OF C PROGRAMMING(C PROGRAM)</td>
 </tr>
 <tr>
 <td align="center">3.</td>
-<td align="center">19PH214</td>
-<td>PHYSICS FOR QUANTUM COMPUTING</td>
+<td align="center">19AI414</td>
+<td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT (FWAD)</td>
 </tr>
 <tr>
 <td align="center">4.</td>
-<td align="center">19MA211</td>
-<td>STATISTICS AND NUMERICAL METHODS</td>
+<td align="center">19CY205</td>
+<td>Principles of Chemistry in Engineering (CHE)</td>
 </tr>
 <tr>
 <td align="center">5.</td>
-<td align="center">19EE404</td>
-<td>DIGITAL ELECTRONICS (ENG)</td>
+<td align="center">19MA211</td>
+<td>STATISTICS AND NUMERICAL METHODS (MAT)</td>
 </tr>
 <tr>
 <td align="center">6.</td>
-<td align="center">19CS405</td>
-<td>OPERATING SYSTEM (SS)</td>
+<td align="center">19EY701</td>
+<td>Soft Skills (SS)</td>
 </tr>
 </table>
 </body>
@@ -131,8 +130,7 @@ Reg No. : 212222230175
 
 
 ## OUTPUT : 
-![image](https://user-images.githubusercontent.com/121166004/236629528-47ec5753-39db-4bfa-a2f3-64bc8cda82b9.png)
-
+![slot](https://github.com/VinithaNaidu/slot/assets/121166004/394335f8-d983-46d5-b363-1540d836c8db)
 
 
 ## HTML VALIDATOR :
